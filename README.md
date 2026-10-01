@@ -10,7 +10,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-persistence-003B57?logo=sqlite&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-OpenAPI-85EA2D?logo=swagger&logoColor=black)
 
-<img src="assets/architecture.svg" alt="Animated architecture diagram" width="100%"/>
+<img src="architecture.svg" alt="Animated architecture diagram" width="100%"/>
 
 </div>
 
