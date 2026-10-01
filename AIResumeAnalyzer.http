@@ -1,0 +1,13 @@
+@AIResumeAnalyzer_HostAddress = https://localhost:7000
+
+POST {{AIResumeAnalyzer_HostAddress}}/api/Resume/analyze
+Content-Type: application/json
+
+{
+  "resumeText": "B.Tech student with experience in Python, Java, SQL, React, Git, REST APIs and Machine Learning. Built projects using FastAPI and MongoDB.",
+  "jobDescription": "We are looking for a developer with C#, .NET, ASP.NET Core, SQL, REST API, Git, React and Docker experience."
+}
+
+###
+
+GET {{AIResumeAnalyzer_HostAddress}}/api/Resume/history
